@@ -1,0 +1,3 @@
+ls
+ls
+emacsclient -t prelude-global-keybindings.elc

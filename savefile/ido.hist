@@ -1,0 +1,48 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/radoslav/.emacs.d/personal/" . "preload/")
+ ("/home/radoslav/.emacs.d/" . "modules/")
+ ("/home/radoslav/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/radoslav/.emacs.d/"
+ "/home/radoslav/.emacs.d/modules/"
+ "/home/radoslav/.emacs.d/core/"
+ "/home/radoslav/.emacs.d/sample/"
+ "/home/radoslav/"
+ "/home/radoslav/.emacs.d/personal/preload/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "prelude-modules.el"
+ "prelude-helm-everywhere.el"
+ "prelude-global-keybindings.el"
+ "init.el"
+ "laino"
+ "rado_init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/radoslav/.emacs.d/modules/" (21855 30872 141593 697000) "prelude-ido.el" "prelude-haskell.el" "prelude-company.el" "prelude-scss.el" "prelude-helm-everywhere.el" "prelude-c.el" "prelude-org.el" "../" "prelude-programming.el" "prelude-coffee.el" "prelude-shell.el" "prelude-js.el" "prelude-css.el" "prelude-web.el" "./" "doc/" "prelude-key-chord.el" "prelude-clojure.el" "prelude-ocaml.el" "prelude-helm.el" "prelude-yaml.el" "prelude-emacs-lisp.el" "prelude-erlang.el" "prelude-scheme.el" "prelude-go.el" "prelude-python.el" "prelude-ruby.el" "prelude-erc.el" "prelude-perl.el" "prelude-evil.el" "prelude-xml.el" "prelude-scala.el" "prelude-mediawiki.el" "prelude-lisp.el" "prelude-latex.el" "prelude-common-lisp.el" "prelude-elixir.el")
+
+ ("/home/radoslav/.emacs.d/core/" (21855 30282 249135 538000) "prelude-ui.elc" "prelude-editor.el" "../" "prelude-custom.el" "prelude-mode.el" "prelude-custom.elc" "./" "prelude-ui.el" "prelude-core.el" "prelude-global-keybindings.elc" "prelude-packages.el" "prelude-global-keybindings.el" "prelude-packages.elc" "prelude-mode.elc" "prelude-osx.el")
+
+ ("/home/radoslav/.emacs.d/personal/preload/" (21855 29866 128616 230000) "../" "rado_init.el" "./" ".gitkeep" "rado_init.el~")
+
+ ("/home/radoslav/.emacs.d/sample/" (21855 27817 956440 65000) "../" "./" "prelude-modules.el")
+
+ ("/home/radoslav/.emacs.d/" (21855 29705 92916 412000) "var/" "themes/" "init.el" "savefile/" "utils/" "../" "elpa/" ".gitignore" "README.md" "sample/" "./" "core/" "modules/" "prelude-modules.el" ".git/" "personal/" "auto-save-list/" "projectile-bookmarks.eld" "CONTRIBUTING.md" "vendor/" ".projectile")
+
+ ("/home/radoslav/.emacs.d/personal/" (21855 27817 956440 65000) "../" "./" ".gitkeep" "preload/")
+
+ ("/home/radoslav/" (21855 29301 378748 322000) ".bashrc" ".esd_auth" ".ICEauthority" ".bash_history" ".ssh/" ".emacs.d/" ".gnupg/" ".config/" ".cache/" ".Skype/" ".emacs.d.pre-prelude.tar" ".mozilla/" "../" ".adobe/" ".erc/" "./" ".macromedia/" "Pictures/" "Music/" "Desktop/" ".bashrc~" ".dropbox-dist/" "Documents/" ".bash_logout" "Downloads/" ".i18n" "Dropbox/" "Videos/" "Public/" ".dropbox/" ".local/" "laino" "Templates/" ".bash_profile" ".pki/" ".root_hist")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
